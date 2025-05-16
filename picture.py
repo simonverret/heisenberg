@@ -58,3 +58,5 @@ square_lattice(6,6, size=(4,4), ax=ax[1,2])
 square_lattice(2,2, ax=ax[2,0])
 square_lattice(4,4, ax=ax[2,1])
 square_lattice(6,6, ax=ax[2,2])
+
+plt.show()
